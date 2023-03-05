@@ -1,0 +1,358 @@
+[{
+  "_id": {
+    "$oid": "63a9eacfc1d6ec49c6177dc6"
+  },
+  "name": "Yossi Shitrit",
+  "age": 27,
+  "img": "assets/chefs/Yossi_Shitrit.svg",
+  "about": "Chef Yossi Shitrit has been living and breathing his culinary dreams for more than two decades, including running the kitchen in his first restaurant, the fondly-remembered Violet, located in Moshav  Udim. Shitrit's creativity and culinary  acumen born of long experience  are expressed in the every detail of each and every dish.",
+  "new": true,
+  "most_viewd": true,
+  "top_chef": true,
+  "chefsRestaurants": [
+    {
+      "$oid": "63a9ed78c1d6ec49c6177de4"
+    }
+  ],
+  "chefsDishes": [
+    {
+      "$oid": "63a9f1a4c1d6ec49c6177e09"
+    },
+    {
+      "$oid": "63a9f21fc1d6ec49c6177e0d"
+    },
+    {
+      "$oid": "63a9f2aac1d6ec49c6177e11"
+    },
+    {
+      "$oid": "63a9f335c1d6ec49c6177e15"
+    },
+    {
+      "$oid": "63a9f401c1d6ec49c6177e19"
+    },
+    {
+      "$oid": "63a9f43bc1d6ec49c6177e1d"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672080079577"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672082491266"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a9eb54c1d6ec49c6177dc8"
+  },
+  "name": "Asaf Granit",
+  "age": 30,
+  "img": "assets/chefs/Asaf_Granit.svg",
+  "about": "Chef Asaf Granit has been living and breathing his culinary dreams for more than two decades, including running the kitchen in his first restaurant, the fondly-remembered Violet, located in Moshav  Udim. Shitrit's creativity and culinary  acumen born of long experience  are expressed in the every detail of each and every dish.",
+  "new": true,
+  "most_viewd": true,
+  "top_chef": false,
+  "chefsRestaurants": [
+    {
+      "$oid": "63a9edbcc1d6ec49c6177de8"
+    }
+  ],
+  "chefsDishes": [
+    {
+      "$oid": "63a9f51fc1d6ec49c6177e21"
+    },
+    {
+      "$oid": "63a9f588c1d6ec49c6177e25"
+    },
+    {
+      "$oid": "63a9f5e2c1d6ec49c6177e29"
+    },
+    {
+      "$oid": "63a9f641c1d6ec49c6177e2d"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672080212213"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672083009223"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a9eb83c1d6ec49c6177dca"
+  },
+  "name": "Aviv Moshe",
+  "age": 33,
+  "img": "assets/chefs/Aviv_Moshe.svg",
+  "about": "Chef Aviv Moshe has been living and breathing his culinary dreams for more than two decades, including running the kitchen in his first restaurant, the fondly-remembered Violet, located in Moshav  Udim. Shitrit's creativity and culinary  acumen born of long experience  are expressed in the every detail of each and every dish.",
+  "new": true,
+  "most_viewd": true,
+  "top_chef": false,
+  "chefsRestaurants": [
+    {
+      "$oid": "63a9ee35c1d6ec49c6177dec"
+    }
+  ],
+  "chefsDishes": [
+    {
+      "$oid": "63a9f70fc1d6ec49c6177e31"
+    },
+    {
+      "$oid": "63a9f757c1d6ec49c6177e35"
+    },
+    {
+      "$oid": "63a9f7a9c1d6ec49c6177e39"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672080259460"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672083369571"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a9eba9c1d6ec49c6177dcc"
+  },
+  "name": "Eyal Shani",
+  "age": 31,
+  "img": "assets/chefs/Eyal_Shani.svg",
+  "about": "Chef Eyal Shani has been living and breathing his culinary dreams for more than two decades, including running the kitchen in his first restaurant, the fondly-remembered Violet, located in Moshav  Udim. Shitrit's creativity and culinary  acumen born of long experience  are expressed in the every detail of each and every dish.",
+  "new": false,
+  "most_viewd": true,
+  "top_chef": false,
+  "chefsRestaurants": [
+    {
+      "$oid": "63a9ee77c1d6ec49c6177df0"
+    }
+  ],
+  "chefsDishes": [
+    {
+      "$oid": "63a9f899c1d6ec49c6177e3d"
+    },
+    {
+      "$oid": "63a9f928c1d6ec49c6177e41"
+    },
+    {
+      "$oid": "63a9f982c1d6ec49c6177e45"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672080297795"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672083842495"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a9ebdec1d6ec49c6177dce"
+  },
+  "name": "Meir Adoni",
+  "age": 35,
+  "img": "assets/chefs/Meir_Adoni.svg",
+  "about": "Chef Meir Adoni has been living and breathing his culinary dreams for more than two decades, including running the kitchen in his first restaurant, the fondly-remembered Violet, located in Moshav  Udim. Shitrit's creativity and culinary  acumen born of long experience  are expressed in the every detail of each and every dish.",
+  "new": true,
+  "most_viewd": false,
+  "top_chef": false,
+  "chefsRestaurants": [
+    {
+      "$oid": "63a9eee5c1d6ec49c6177df4"
+    }
+  ],
+  "chefsDishes": [
+    {
+      "$oid": "63a9f9f1c1d6ec49c6177e49"
+    },
+    {
+      "$oid": "63a9fa1fc1d6ec49c6177e4d"
+    },
+    {
+      "$oid": "63a9fa6bc1d6ec49c6177e51"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672080350954"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672084075712"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a9ebfec1d6ec49c6177dd0"
+  },
+  "name": "Omer Miller",
+  "age": 35,
+  "img": "assets/chefs/Omer_Miller.svg",
+  "about": "Chef Omer Miller has been living and breathing his culinary dreams for more than two decades, including running the kitchen in his first restaurant, the fondly-remembered Violet, located in Moshav  Udim. Shitrit's creativity and culinary  acumen born of long experience  are expressed in the every detail of each and every dish.",
+  "new": false,
+  "most_viewd": false,
+  "top_chef": false,
+  "chefsRestaurants": [
+    {
+      "$oid": "63a9ef3dc1d6ec49c6177df8"
+    }
+  ],
+  "chefsDishes": [
+    {
+      "$oid": "63a9fb00c1d6ec49c6177e55"
+    },
+    {
+      "$oid": "63a9fb29c1d6ec49c6177e59"
+    },
+    {
+      "$oid": "63a9fb72c1d6ec49c6177e5d"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672080382902"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672084338616"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a9ec21c1d6ec49c6177dd2"
+  },
+  "name": "Shahaf Shabtay",
+  "age": 25,
+  "img": "assets/chefs/Shahaf_Shabtay.svg",
+  "about": "Chef Shahaf Shabtay has been living and breathing his culinary dreams for more than two decades, including running the kitchen in his first restaurant, the fondly-remembered Violet, located in Moshav  Udim. Shitrit's creativity and culinary  acumen born of long experience  are expressed in the every detail of each and every dish.",
+  "new": true,
+  "most_viewd": false,
+  "top_chef": false,
+  "chefsRestaurants": [
+    {
+      "$oid": "63a9ef78c1d6ec49c6177dfc"
+    }
+  ],
+  "chefsDishes": [
+    {
+      "$oid": "63a9fc0ec1d6ec49c6177e61"
+    },
+    {
+      "$oid": "63a9fc47c1d6ec49c6177e65"
+    },
+    {
+      "$oid": "63a9fc86c1d6ec49c6177e69"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672080417389"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672084614428"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a9ec52c1d6ec49c6177dd4"
+  },
+  "name": "Yuval Ben Neriah",
+  "age": 43,
+  "img": "assets/chefs/Yuval_Ben_Neriah.svg",
+  "about": "Chef Yuval Ben Neriah has been living and breathing his culinary dreams for more than two decades, including running the kitchen in his first restaurant, the fondly-remembered Violet, located in Moshav  Udim. Shitrit's creativity and culinary  acumen born of long experience  are expressed in the every detail of each and every dish.",
+  "new": false,
+  "most_viewd": false,
+  "top_chef": false,
+  "chefsRestaurants": [
+    {
+      "$oid": "63a9efb8c1d6ec49c6177e00"
+    }
+  ],
+  "chefsDishes": [
+    {
+      "$oid": "63a9fcc8c1d6ec49c6177e6d"
+    },
+    {
+      "$oid": "63a9fd01c1d6ec49c6177e71"
+    },
+    {
+      "$oid": "63a9fd3ec1d6ec49c6177e75"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672080466540"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672084798392"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a9ec7ac1d6ec49c6177dd6"
+  },
+  "name": "Nitzan Raz",
+  "age": 45,
+  "img": "assets/chefs/Nitzan_Raz.svg",
+  "about": "Chef Nitzan Raz has been living and breathing his culinary dreams for more than two decades, including running the kitchen in his first restaurant, the fondly-remembered Violet, located in Moshav  Udim. Shitrit's creativity and culinary  acumen born of long experience  are expressed in the every detail of each and every dish.",
+  "new": false,
+  "most_viewd": true,
+  "top_chef": false,
+  "chefsRestaurants": [
+    {
+      "$oid": "63a9eff0c1d6ec49c6177e04"
+    }
+  ],
+  "chefsDishes": [
+    {
+      "$oid": "63a9fd78c1d6ec49c6177e79"
+    },
+    {
+      "$oid": "63a9fdadc1d6ec49c6177e7d"
+    },
+    {
+      "$oid": "63a9fdfbc1d6ec49c6177e81"
+    },
+    {
+      "$oid": "63a9fe3ec1d6ec49c6177e85"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672080506406"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672085054568"
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "63a9ecbdc1d6ec49c6177dd9"
+  },
+  "name": "Indian",
+  "Restaurants": [
+    {
+      "$oid": "63a9ed78c1d6ec49c6177de4"
+    },
+    {
+      "$oid": "63a9efb8c1d6ec49c6177e00"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672080573073"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672081336856"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a9ecc1c1d6ec49c6177ddb"
+  },
+  "name": "Asian",
+  "Restaurants": [
+    {
+      "$oid": "63a9edbcc1d6ec49c6177de8"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672080577475"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672080828730"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a9ecd0c1d6ec49c6177ddd"
+  },
+  "name": "Thai",
+  "Restaurants": [
+    {
+      "$oid": "63a9ee35c1d6ec49c6177dec"
+    },
+    {
+      "$oid": "63a9eff0c1d6ec49c6177e04"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672080592510"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672081392852"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a9ecdac1d6ec49c6177ddf"
+  },
+  "name": "Mexican",
+  "Restaurants": [
+    {
+      "$oid": "63a9eee5c1d6ec49c6177df4"
+    },
+    {
+      "$oid": "63a9ef3dc1d6ec49c6177df8"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672080602584"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672081213528"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a9ece9c1d6ec49c6177de1"
+  },
+  "name": "Middle East",
+  "Restaurants": [
+    {
+      "$oid": "63a9ee77c1d6ec49c6177df0"
+    },
+    {
+      "$oid": "63a9ef78c1d6ec49c6177dfc"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672080617144"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672081272459"
+    }
+  },
+  "__v": 0
+}]
